@@ -14,6 +14,10 @@ layout_spectrum: 0.8307224023155868
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/42ae9c73-7e14-401f-847e-422dad6cc2d6.png
 name: AlVegaStudio
+navigation:
+  - name: lo_v
+    id: 897169c4-0cb9-40b6-a6c4-8aa378404660
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6a77c1f-c0cc-4aaa-b523-7490311478a2.png
 title: MORE
