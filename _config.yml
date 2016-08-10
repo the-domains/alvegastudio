@@ -1,16 +1,16 @@
-typography_spectrum: 0.04357320722192526
+typography_spectrum: 0.949026360642165
 color:
-  brandStrength: 0.6341948008630425
-  lightness: 0.3817963863257319
-  saturation: 0.8510854016058147
-  rhythmicContrast: 0.9731911849230528
+  brandStrength: 0.06608758470974863
+  lightness: 0.7883580520283431
+  saturation: 0.8846015802118927
+  rhythmicContrast: 0.5148268805351108
   brandColors:
-    - '#FFFFFF'
-    - '#EDDCA4'
-    - '#936363'
-    - '#7DB5EE'
-    - '#CAB98D'
-layout_spectrum: 0.6473649751860648
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.8307224023155868
 name: AlVegaStudio
 title: MORE
 description: creativemind
