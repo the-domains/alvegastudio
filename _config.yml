@@ -1,0 +1,14 @@
+layout_spectrum: 0.8307224023155868
+typography_spectrum: 0.949026360642165
+color:
+  brandStrength: 0.06608758470974863
+  lightness: 0.7883580520283431
+  saturation: 0.8846015802118927
+  rhythmicContrast: 0.5148268805351108
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: AlVegaStudio
